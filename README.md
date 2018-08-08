@@ -8,3 +8,7 @@ I'm going to be doing a weekend VR project to present at an interview I have Mon
 ### VRTK
 
 For time saving purposes, I'm going to be using [VRTK](https://vrtoolkit.readme.io/) for the movement and interactions within Virtual Space. 
+
+### Textures
+
+All custom textures will be from [textures.com](https://textures.com/). The materials will be made by myself within Unity with these textures. Normal maps will be created by myself using a Paint.net normalizer plugin.
