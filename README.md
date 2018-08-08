@@ -1,13 +1,10 @@
 # Weekend VR Project
-***
 
 ## About
-***
 
 I'm going to be doing a weekend VR project to present at an interview I have Monday. Everything within this project will be made by me. Including: models, particle systems, animations, scripts, and VR interaction systems. Anything that is not made by me will be listed down below as dependencies.
 
 ## Dependencies
-***
 
 ### VRTK
 
@@ -22,7 +19,6 @@ All custom textures will be from [textures.com](https://textures.com/). The mate
 Using this free asset package from the Unity Asset store to implement mirrors within the VR space. Dependency can be found [here.](https://assetstore.unity.com/packages/tools/particles-effects/magic-mirror-lite-reflection-for-unity-34824)
 
 ## Tools / Software Used
-***
 
 * Unity 2018
 * Blender
