@@ -15,6 +15,10 @@ For time saving purposes, I'm going to be using [VRTK](https://vrtoolkit.readme.
 
 All custom textures will be from [textures.com](https://textures.com/). The materials will be made by myself within Unity with these textures. Normal maps will be created by myself using a Paint.net normalizer plugin.
 
+## Magic Mirror Lite - Reflection for Unity
+
+Using this free asset package from the Unity Asset store to implement mirrors within the VR space. Dependency can be found [here.](https://assetstore.unity.com/packages/tools/particles-effects/magic-mirror-lite-reflection-for-unity-34824)
+
 ## Tools / Software Used
 
 * Unity 2018
